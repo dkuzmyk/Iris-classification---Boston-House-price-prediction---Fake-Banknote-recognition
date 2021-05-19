@@ -1,0 +1,1 @@
+# Iris-classification---Boston-House-price-prediction---Fake-Banknote-recognition
